@@ -41,7 +41,7 @@ Para a aplicação eu escolhi os seguintes pacotes.
 
 <ul>
     <li>Moment.js - Para calcular a data</li>
-    <li>Styled-compnents - Para escrever o css</li>
+    <li>Styled-components - Para escrever o css</li>
     <li>FontAwesome - Para os ícones</li>
     <li>Axios - Para as requisições HTTP</li>
     <li>Framer Motion - Para animação de carregamento de tela</li>
